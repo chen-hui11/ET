@@ -5,5 +5,7 @@ numpy==1.26.4
 matplotlib==3.9.2
 shap==0.48.0
 lime==0.2.0.1
-scikit-learn==1.6.0
+scikit-learn==1.5.1
 openpyxl
+
+
